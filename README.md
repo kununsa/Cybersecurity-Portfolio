@@ -10,7 +10,7 @@ This project consists of a comprehensive security audit and risk assessment cond
 * Provide risk-mitigation recommendations to align business practices with security standards.
 
 ## Project Documents
-[Completed Controls & Compliance Checklist](Controls and compliance checklist.md)
+* <a href="Controls and compliance checklist.md">Completed Controls & Compliance Checklist</a>
 ## Key Technical Skills Demonstrated
 * Risk Assessment & Mitigation Strategy
 * Framework Alignment (NIST CSF)
